@@ -1,0 +1,22 @@
+# github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d
+github.com/StackExchange/wmi
+# github.com/fvbock/endless v0.0.0-20170109170031-447134032cb6
+## explicit
+github.com/fvbock/endless
+# github.com/go-ole/go-ole v1.2.4
+github.com/go-ole/go-ole
+github.com/go-ole/go-ole/oleutil
+# github.com/jpillora/overseer v1.1.6
+## explicit
+github.com/jpillora/overseer
+github.com/jpillora/overseer/fetcher
+# github.com/jpillora/s3 v1.1.4
+github.com/jpillora/s3
+# github.com/karldoenitz/Tigo v1.6.0
+## explicit
+github.com/karldoenitz/Tigo/TigoWeb
+github.com/karldoenitz/Tigo/binding
+github.com/karldoenitz/Tigo/logger
+# gopkg.in/yaml.v2 v2.4.0
+## explicit
+gopkg.in/yaml.v2
