@@ -1,160 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9640b64-b9bb-415b-b4bc-cdc7e4f4e76e" name="Default Changelist" comment="初始化项目">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test_git_action.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/StackExchange/wmi/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/StackExchange/wmi/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/StackExchange/wmi/swbemservices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/StackExchange/wmi/wmi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/fvbock/endless/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/fvbock/endless/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/fvbock/endless/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/fvbock/endless/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/fvbock/endless/endless.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/ChangeLog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/com.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/com_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/connect.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/constants.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/error.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/error_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/error_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/guid.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iconnectionpoint.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iconnectionpoint_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iconnectionpoint_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iconnectionpointcontainer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iconnectionpointcontainer_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iconnectionpointcontainer_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/idispatch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/idispatch_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/idispatch_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/ienumvariant.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/ienumvariant_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/ienumvariant_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iinspectable.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iinspectable_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iinspectable_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iprovideclassinfo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iprovideclassinfo_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iprovideclassinfo_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/itypeinfo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/itypeinfo_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/itypeinfo_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iunknown.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iunknown_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/iunknown_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/ole.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/oleutil/connection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/oleutil/connection_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/oleutil/connection_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/oleutil/go-get.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/oleutil/oleutil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/safearray.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/safearray_func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/safearray_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/safearrayconversion.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/safearrayslices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/utility.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variables.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant_386.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant_amd64.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant_date_386.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant_date_amd64.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant_ppc64le.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/variant_s390x.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/vt_string.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/winrt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/go-ole/go-ole/winrt_doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/fetcher/fetcher.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/fetcher/fetcher_file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/fetcher/fetcher_github.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/fetcher/fetcher_http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/fetcher/fetcher_s3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/graceful.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/overseer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/proc_master.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/proc_slave.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/proc_slave_others.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/proc_slave_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/sys_posix.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/sys_posix_mv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/sys_unsupported.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/overseer/sys_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/aws_common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/aws_credentials.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/aws_request_data.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/aws_sign_v4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/aws_signed_headers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/input.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/new.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/options.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/presigned_get.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jpillora/s3/util.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Application.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Enums.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Global.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/URLpattern.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/Utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/doc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/TigoWeb/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/binding/err.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/binding/form.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/binding/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/binding/validate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/karldoenitz/Tigo/logger/Logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/LICENSE.libyaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/apic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/decode.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/emitterc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/encode.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/parserc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/readerc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/resolve.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/scannerc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/sorter.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/writerc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yaml.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlh.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/gopkg.in/yaml.v2/yamlprivateh.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
+    <list default="true" id="f9640b64-b9bb-415b-b4bc-cdc7e4f4e76e" name="Default Changelist" comment="bugfix">
+      <change afterPath="$PROJECT_DIR$/build/package.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/go.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +21,10 @@
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1lAv4ZahM7UFG0HEgCKCAlM4OHv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -185,7 +39,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="go build test_git_action" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -217,9 +74,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化项目" />
+    <MESSAGE value="bugfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugfix" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
 </project>
