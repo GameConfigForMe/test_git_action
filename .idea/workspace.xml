@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9640b64-b9bb-415b-b4bc-cdc7e4f4e76e" name="Default Changelist" comment="测试github action打包">
-      <change beforePath="$PROJECT_DIR$/build/package.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/package.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/upload.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/go.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
