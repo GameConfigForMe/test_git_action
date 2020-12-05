@@ -36,7 +36,7 @@ jobs:
       run: go test -v ./...
 
   package:
-    name: Build
+    name: Package
     runs-on: ubuntu-latest
     steps:
 
