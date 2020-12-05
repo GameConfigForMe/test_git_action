@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9640b64-b9bb-415b-b4bc-cdc7e4f4e76e" name="Default Changelist" comment="bugfix">
-      <change afterPath="$PROJECT_DIR$/build/package.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/go.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f9640b64-b9bb-415b-b4bc-cdc7e4f4e76e" name="Default Changelist" comment="测试github action打包">
+      <change beforePath="$PROJECT_DIR$/build/package.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build/package.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="bugfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugfix" />
+    <MESSAGE value="测试github action打包" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试github action打包" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
